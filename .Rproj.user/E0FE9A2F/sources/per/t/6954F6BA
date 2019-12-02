@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575304463608.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1628170862",
+    "id" : "6954F6BA",
+    "lastKnownWriteTime" : 1574351634,
+    "last_content_update" : 1574351634,
+    "path" : "~/Desktop/anomaly-offline/R/bard.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "333,3",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

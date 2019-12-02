@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575303539392.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "938975374",
+    "id" : "B5A953F8",
+    "lastKnownWriteTime" : 1575305159,
+    "last_content_update" : 1575305159347,
+    "path" : "~/Documents/BARD/R/sample.R",
+    "project_path" : "R/sample.R",
+    "properties" : {
+        "cursorPosition" : "120,17",
+        "scrollLine" : "107"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
